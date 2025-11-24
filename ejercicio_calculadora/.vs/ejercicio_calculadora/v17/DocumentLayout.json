@@ -30,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "operations.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\operations.cpp",
+              "RelativeDocumentMoniker": "operations.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\operations.cpp",
+              "RelativeToolTip": "operations.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T15:47:43.942Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -59,19 +72,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-24T15:49:19.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "operations.cpp",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\operations.cpp",
-              "RelativeDocumentMoniker": "operations.cpp",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\operations.cpp",
-              "RelativeToolTip": "operations.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T15:47:43.942Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
