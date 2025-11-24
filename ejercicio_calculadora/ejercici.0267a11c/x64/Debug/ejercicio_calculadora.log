@@ -1,0 +1,14 @@
+﻿  inout.cpp
+C:\Users\Usuario\Desktop\2º\IS1\IS1_EJ_CALCULADORA\ejercicio_calculadora\inout.h(5,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tDatos' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "inout.cpp")
+  
+  main.cpp
+C:\Users\Usuario\Desktop\2º\IS1\IS1_EJ_CALCULADORA\ejercicio_calculadora\inout.h(5,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tDatos' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+  operations.cpp
+C:\Users\Usuario\Desktop\2º\IS1\IS1_EJ_CALCULADORA\ejercicio_calculadora\inout.h(5,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tDatos' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "operations.cpp")
+  
+  Generando código...
+  ejercicio_calculadora.vcxproj -> C:\Users\Usuario\Desktop\2º\IS1\IS1_EJ_CALCULADORA\ejercicio_calculadora\x64\Debug\ejercicio_calculadora.exe

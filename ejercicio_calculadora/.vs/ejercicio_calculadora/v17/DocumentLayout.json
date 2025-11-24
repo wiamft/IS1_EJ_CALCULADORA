@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|solutionrelative:operations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\inout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|solutionrelative:inout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\inout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|solutionrelative:inout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0267A11C-03DA-4920-94FC-30C7BD228549}|ejercicio_calculadora.vcxproj|C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\operations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +44,10 @@
               "RelativeDocumentMoniker": "operations.cpp",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\operations.cpp",
               "RelativeToolTip": "operations.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-24T15:47:43.942Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "inout.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\inout.h",
               "RelativeDocumentMoniker": "inout.h",
@@ -71,11 +71,12 @@
               "RelativeToolTip": "inout.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-24T15:49:19.26Z"
+              "WhenOpened": "2025-11-24T15:49:19.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "inout.cpp",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\inout.cpp",
               "RelativeDocumentMoniker": "inout.cpp",
@@ -83,11 +84,12 @@
               "RelativeToolTip": "inout.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T15:47:33.607Z"
+              "WhenOpened": "2025-11-24T15:47:33.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -95,7 +97,8 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T15:46:51.445Z"
+              "WhenOpened": "2025-11-24T15:46:51.445Z",
+              "EditorCaption": ""
             }
           ]
         }

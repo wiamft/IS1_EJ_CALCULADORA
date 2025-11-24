@@ -36,6 +36,9 @@ double execute(tDatos datos) {
         resultado = div(datos.num1, datos.num2);
     else if (datos.operador == "Exp")
         resultado = exp(datos.num1, datos.num2);
+    else {
+        resultado = -1;
+    }
     return resultado;
 }
 
