@@ -46,8 +46,7 @@
               "RelativeToolTip": "operations.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-24T15:49:44.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:49:44.698Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "inout.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-24T15:49:19.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:49:19.26Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "operations.cpp",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\2\u00BA\\IS1\\IS1_EJ_CALCULADORA\\ejercicio_calculadora\\operations.cpp",
               "RelativeToolTip": "operations.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-24T15:47:43.942Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "inout.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T15:47:33.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:47:33.607Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T15:46:51.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:46:51.445Z"
             }
           ]
         }
